@@ -19,7 +19,7 @@ Guide for installation using docker:
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samfun75/SamfunStreamerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nonprimaria/SamfunStreamerBot)
 <br>
 
 ### Other systems
